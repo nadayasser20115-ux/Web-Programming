@@ -1,0 +1,22 @@
+/* First page: Galley Menu */
+.left-line {
+    width: 450px;
+    margin-left: 0;
+    margin-right: auto;
+}
+
+/* Second page: Park Bookstore */
+.bookstore-title {
+    text-align: right;
+}
+
+.right-line {
+    width: 450px;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.store-info,
+.address {
+    text-align: right;
+}
