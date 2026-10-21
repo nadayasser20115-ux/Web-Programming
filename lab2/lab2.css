@@ -1,0 +1,58 @@
+body {
+    background-color: cyan;
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-size: 14px;
+    margin: 10px;
+    padding: 10px;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    font-style: italic;
+    font-size: 28px;
+}
+
+hr {
+    border: none;
+    border-top: 2px solid silver;
+}
+
+h3 {
+    text-align: center;
+    font-size: 16px;
+}
+
+h4 {
+    margin-bottom: 0;
+    text-decoration: underline;
+}
+
+p {
+    margin-top: 10px;
+}
+
+.silver {
+    color: hsl(0, 0%, 75%);
+}
+
+.fuchsia {
+    color: #FF00FF;
+}
+
+.orange {
+    color: rgb(255, 165, 0);
+}
+
+.rates-title {
+    margin-top: 18px;
+}
+
+pre {
+    font-family: monospace;
+    font-size: 13px;
+}
