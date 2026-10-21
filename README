@@ -21,3 +21,6 @@ git push
 بيرفع التعديلات إلى GitHub.
 
 بعدها هتلاقي التعديلات ظهرت في الـ Repository بتاعتك. ✅
+
+
+git add .; git commit -m "Update labs"; git push
